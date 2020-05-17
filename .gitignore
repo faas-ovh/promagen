@@ -6,3 +6,4 @@
 /nginx/
 /gunicorn/
 /debian/
+/python3env/
