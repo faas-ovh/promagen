@@ -17,13 +17,19 @@ Korzysta ze skryptów do instalacji i zarzadzania uslguami porpzez skrypty basha
 
 ## Install on live server
 
-    git clone git@github.com:faas-ovh/promagen.git promagen -q
-     
+    # Download http
+    git clone https://github.com/faas-ovh/promagen.git
+    
+OR
+
+    # Download (publickey)
+    git clone softreck@github.com:faas-ovh/promagen.git promagen -q
+        
 
 linux debian
 
     cd debian
-    download.sh
+    sh download.sh
     install.sh
     restart.sh
     test.sh
