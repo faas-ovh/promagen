@@ -3,7 +3,7 @@
     "url": "project/private/0",
     "title": "Current Folder",
     "volume": "",
-    "path": "../",
+    "path": "./",
     "domain": "app.faas.ovh",
     "files": []
   }
