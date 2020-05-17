@@ -10,4 +10,3 @@ sh nginx/reload.sh
 #sh gunicorn/install.sh
 sh node/install.sh
 sh src/install.sh
-
