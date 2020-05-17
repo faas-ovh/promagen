@@ -1,0 +1,8 @@
+/env/
+/.idea/
+/src/
+/python/
+/pip/
+/nginx/
+/gunicorn/
+/debian/
