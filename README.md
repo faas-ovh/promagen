@@ -30,17 +30,9 @@ linux debian
 
     cd debian
     sh download.sh
-    install.sh
-    restart.sh
-    test.sh
-
-windows 10
-
-    cd win\
-    download.bat
-    install.bat
-    restart.bat
-    test.bat 
+    sh install.sh
+    sh restart.sh
+    sh test.sh
 
 
 APi URL
@@ -49,7 +41,10 @@ APi URL
     http://app.faas.ovh/docs
     http://app.faas.ovh/redoc
 
+## Remove
 
+    rm -rf promagen
+    
 # Github
 
     ssh-keygen -t rsa -b 4096 -C "email@adress.com"

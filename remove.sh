@@ -1,3 +1,5 @@
+#!/bin/bash
+rm -rf promagen
 rm -rf src
 rm -rf python
 rm -rf python3env

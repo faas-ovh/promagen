@@ -1,5 +1,5 @@
 #!/bin/bash
-adduser nginx -y
+adduser nginx
 usermod -aG sudo nginx
 su - nginx
 sudo whoami
