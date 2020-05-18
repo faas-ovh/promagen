@@ -9,6 +9,14 @@
   },
   {
     "url": "project/private/0",
+    "title": "../",
+    "volume": "",
+    "path": "../",
+    "domain": "app.faas.ovh",
+    "files": []
+  },
+  {
+    "url": "project/private/0",
     "title": "root/promagen",
     "volume": "",
     "path": "/root/promagen",
@@ -17,9 +25,9 @@
   },
   {
     "url": "project/private/0",
-    "title": "root/promagen/",
+    "title": "root/promagen/src",
     "volume": "",
-    "path": "/root/promagen/",
+    "path": "/root/promagen/src",
     "domain": "app.faas.ovh",
     "files": []
   }
