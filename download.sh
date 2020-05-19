@@ -3,4 +3,5 @@
 #git clone https://github.com/apicra/debian-gunicorn.git gunicorn
 git clone https://github.com/apicra/debian-node.git node
 git clone https://github.com/apicra/debian-nginx.git nginx
-git clone https://github.com/promagen/one.git src
+#git clone https://github.com/promagen/one.git src
+git clone https://github.com/faas-ovh/form.git src
